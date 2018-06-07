@@ -1,6 +1,6 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-    Comparing game_old.js to game_new.js by running diff -u game old.js game new.js helped me isolate the changes made to the file instead of having to manually find the differences between the 2 files. Seeing which lines were added/deleted allowed me to quickly spoooooooooooooooooot the mistake in the code. 
+    Comparing game_old.js to game_new.js by running diff -u game old.js game new.js helped me isolate the changes made to the file instead of having to manually find the differences between the 2 files. Seeing which lines were added/deleted allowed me to quickly spot the mistake in the code. 
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
