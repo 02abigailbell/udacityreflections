@@ -1,33 +1,27 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-    Fill in your answer here asdga dsg 
+    Comparing game_old.js to game_new.js by running diff -u game old.js game new.js helped me isolate the changes made to the file instead of having to manually find the differences between the 2 files. Seeing which lines were added/deleted allowed me to quickly spoooooooooooooooooot the mistake in the code. 
 
-How could having easy access to the entire history of a file make you a more
-efficient programmer in the long term?
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-    Fill in your answer here
+    This could help make me a more efficient programmer in the long-term because that way I wouldn't have to worry about messing up since I would just be able to revert to a previous version of the file at any time, and that would allow me to be more creative and take more risks.
 
-What do you think are the pros and cons of manually choosing when to create a
-commit, like you do in Git, vs having versions automatically saved, like Google
-docs does?
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-    Fill in your answer here
+    Some of the pros are that you have total control over when you want to commit, and so your commits make sense and it's easier for you and others to look back on them later and make sense of them, whereas in a VCS like Google Docs, it's not really making commits per logical change so the "commits" in Google Docs make less sense, in a way. However, a con of having to make your own commits might be that it would be easier to lose progress or become really unorganized if you forgot to commit per logical change. 
 
-Why do you think some version control systems, like Git, allow saving multiple
-files in one commit, while others, like Google Docs, treat each file separately?
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    I think this is because it's helpful to be able to track multiple related files together in a commit, rather than having to commit each file separately, like you do in Google Docs. 
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+	You can use the command git log to view the history of files in commits. Git will show you every commit in the repository's history, which will include each commit ID, author, date and time, and a short note describing the changes made to the file. Git diff can be used to show the exact changes made to a file in-between 2 commits.
 
-How might using version control make you more confident to make changes that
-could break something?
+How might using version control make you more confident to make changes that could break something?
 
-    Fill in your answer here
+    Using version control could make me more confident to make changes that could break something because it ensures that no matter what I do to my working directory, I can always revert back to the last commit and use that as a reference to fix what I'm currently working on or even start over working from there.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I don't have any plans for using Git for anything huge, but I'd like to mess around with tracking files in Sublime and using Git diff to view the changes made between commits, just to familiarize myself with the program more thoroughly. 
