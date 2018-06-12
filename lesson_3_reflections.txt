@@ -26,4 +26,4 @@ If you were collaborating without Git/Github, I imagine you’d have to find som
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You might want to make changes in a separate branch rather than directly in master if you were collaborating with another person and you wanted to send them a pull request to get their feedback before changing master. You might also want to do this even if you were just working on something by yourself in case you wanted to look a change over a little more before committing to master, but you still wanted it up on Github/shared with the public. 
